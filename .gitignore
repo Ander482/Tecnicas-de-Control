@@ -1,0 +1,38 @@
+
+# MATLAB, Simulink y Simscape
+
+# Cachés y archivos temporales de MATLAB
+*.asv
+*.m~
+*.autosave
+*.bak
+*.mat.bak
+*.mex*
+*.pdb
+
+# Cachés y carpetas generadas por Simulink
+slprj/
+*_rtw/
+*_grt_rtw/
+*_ert_rtw/
+*.slxc
+
+# Código y artefactos generados
+codegen/
+*.bin
+*.elf
+*.map
+*.hex
+*.out
+
+# Archivos temporales de proyectos y herramientas de MATLAB
+*.prj.bak
+*.sldd~
+*.mdl~
+*.ssc~
+*.autosave
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
